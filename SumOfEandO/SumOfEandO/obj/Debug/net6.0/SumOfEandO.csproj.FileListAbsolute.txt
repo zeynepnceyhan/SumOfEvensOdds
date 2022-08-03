@@ -1,0 +1,15 @@
+C:\Users\zeynep\source\repos\SumOfEandO\SumOfEandO\bin\Debug\net6.0\SumOfEandO.exe
+C:\Users\zeynep\source\repos\SumOfEandO\SumOfEandO\bin\Debug\net6.0\SumOfEandO.deps.json
+C:\Users\zeynep\source\repos\SumOfEandO\SumOfEandO\bin\Debug\net6.0\SumOfEandO.runtimeconfig.json
+C:\Users\zeynep\source\repos\SumOfEandO\SumOfEandO\bin\Debug\net6.0\SumOfEandO.dll
+C:\Users\zeynep\source\repos\SumOfEandO\SumOfEandO\bin\Debug\net6.0\SumOfEandO.pdb
+C:\Users\zeynep\source\repos\SumOfEandO\SumOfEandO\obj\Debug\net6.0\SumOfEandO.csproj.AssemblyReference.cache
+C:\Users\zeynep\source\repos\SumOfEandO\SumOfEandO\obj\Debug\net6.0\SumOfEandO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep\source\repos\SumOfEandO\SumOfEandO\obj\Debug\net6.0\SumOfEandO.AssemblyInfoInputs.cache
+C:\Users\zeynep\source\repos\SumOfEandO\SumOfEandO\obj\Debug\net6.0\SumOfEandO.AssemblyInfo.cs
+C:\Users\zeynep\source\repos\SumOfEandO\SumOfEandO\obj\Debug\net6.0\SumOfEandO.csproj.CoreCompileInputs.cache
+C:\Users\zeynep\source\repos\SumOfEandO\SumOfEandO\obj\Debug\net6.0\SumOfEandO.dll
+C:\Users\zeynep\source\repos\SumOfEandO\SumOfEandO\obj\Debug\net6.0\refint\SumOfEandO.dll
+C:\Users\zeynep\source\repos\SumOfEandO\SumOfEandO\obj\Debug\net6.0\SumOfEandO.pdb
+C:\Users\zeynep\source\repos\SumOfEandO\SumOfEandO\obj\Debug\net6.0\SumOfEandO.genruntimeconfig.cache
+C:\Users\zeynep\source\repos\SumOfEandO\SumOfEandO\obj\Debug\net6.0\ref\SumOfEandO.dll
